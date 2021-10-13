@@ -2,8 +2,8 @@
 
 
 ## I am Engineering Student, JUIT
-## 🔭 I’m currently working on *_Python_*
-## 🌱 I’m currently learning *_Python, EDA and Machine Learning_*
+## 🔭 Working with *_Python_*
+## 🌱 Learning *_Python, EDA and Machine Learning_*
 ## 👯 I’m looking to collaborate on *Python Projects*
 ## 💬 Ask me about  
 ### -> _Python Programming_
